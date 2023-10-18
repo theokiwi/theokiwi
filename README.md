@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! It's Theo!</h1>
-<h3 align="center">A passionate Game Developer! Interested in Engine Programming.</h3>
+<h3 align="center">A passionate Game Developer! Interested in Shaders and Engine Programming.</h3>
 
-- 🌱 I’m currently learning **Html, Css, JavaScript, Java, Unreal, Godot.**
+- 🌱 I’m currently learning **Shaders, Html, Css, JavaScript, Java, Unreal, Godot.**
 
 - 💬 I can help you with **C#, Unity3D, C++.**
 
