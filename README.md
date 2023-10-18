@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **theodordiniz@gmail.com**
 
-- ⚡Current Tech Goal **Daily LeetCode!**
+- ⚡Current Tech Goal **LeetCode!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
