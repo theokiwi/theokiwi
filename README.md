@@ -1,13 +1,11 @@
 <h1 align="center">Hello World! It's Theo!</h1>
 <h3 align="center">A passionate Game Developer! Interested in Shaders and Engine Programming.</h3>
 
-- 🌱 I’m currently learning **Shaders, Html, Css, JavaScript, Java, Unreal, Godot.**
+- 🌱 I’m currently learning **Shaders, Html, Css, JavaScript, Java, Unreal, Godot, Python**
 
 - 💬 I can help you with **C#, Unity3D, C++.**
 
 - 📫 How to reach me **theodordiniz@gmail.com**
-
-- ⚡Current Tech Goal **LeetCode!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
