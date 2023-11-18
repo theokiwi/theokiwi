@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! It's Theo!</h1>
-<h3 align="center">A passionate Game Developer! Interested in Shaders and Engine Programming.</h3>
+<h3 align="center">A passionate Game Developer! Interested in OS Programming.</h3>
 
 - 🌱 I’m currently learning **Python**
 
