@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! It's Theo!</h1>
 <h3 align="center">A passionate Programmer! Interested in OS Programming.</h3>
 
-- 🌱 I’m currently learning **Reading programming books!**
+- 🌱 I’m currently learning **Programming Logic!**
 
 - 💬 I can help you with **C#, Unity3D, C++.**
 
