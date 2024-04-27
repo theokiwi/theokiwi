@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C, C++, C#, Unity3D.**
 
-- 📫 How to reach me **theodordiniz@gmail.com**
+- 📫 How to reach me **theodinizv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
