@@ -5,7 +5,7 @@
 
 - I’m currently learning **WebDev, DataStructures, Programming Logic**
 
-- 💬 Ask me about **C, C++, C#, Unity3D.**
+- 💬 Ask me about **CSS, HTML, C, C++, C#, Unity3D.**
 
 - 📫 How to reach me **theodinizv@gmail.com**
 
