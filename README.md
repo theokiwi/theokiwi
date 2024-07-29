@@ -64,7 +64,7 @@
 
 <br clear="both">
 
-<h2 align="left">🔨 Reach me!</h2>
+<h2 align="left">📬 Reach me!</h2>
 
 ###
 
