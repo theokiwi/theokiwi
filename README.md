@@ -69,7 +69,7 @@
 ###
 
 <div align="left">
- 📬 <a href="https://www.linkedin.com/in/theo-diniz-viana-351967233/" target="_blank">Check my LinkedIn</a> <br>
+ 🧑🏻‍💼 <a href="https://www.linkedin.com/in/theo-diniz-viana-351967233/" target="_blank">Check my LinkedIn</a> <br>
  📧 theodinizv@gmail.com
     
 </div>
