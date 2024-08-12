@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Over 2 years of programming experience<br>📚 Wannabe back-end developer.<br>❤️ Passionate about Operational Systems<br>🤖 Linux Nerd<br>🎯 Goals:  Build a solid academic career, but also would like to work in the industry</p>
+<p align="left">✨ Over 2 years of programming experience.<br>📚 Wannabe OS developer.<br>❤️ Passionate about Operational Systems.<br>🤖 Linux Nerd.<br>🎯 Goals:  Build a solid academic career, but also would like to work in the industry.</p>
 
 ###
 
