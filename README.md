@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"> <li>I'm a student at the Pontifícia Universidade Católica de Minas Gerais. <br> <li>Currently on my 3nd term of Computer Science (2/8). <br> <li>Took two years of Game Design in the same university. <br> <li> C2 Proficiency Certificate</li></p>
+<p align="left"> <li>I'm a student at the Pontifícia Universidade Católica de Minas Gerais. <br> <li>Currently on my 3nd term of Computer Science (3/8). <br> <li>Took two years of Game Design in the same university. <br> <li> C2 Proficiency Certificate</li></p>
 
 ###
 
