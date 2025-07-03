@@ -41,7 +41,7 @@
  📧 theodinizv@gmail.com
     
 </div>
-
+<br/>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/theokiwi?theme=catppuccinMocha&font=Poppins&ext=activity" alt="LeetCode Stats" />
 </p>
