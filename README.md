@@ -39,9 +39,8 @@
 <div align="left">
  🧑🏻‍💼 <a href="https://www.linkedin.com/in/theo-diniz-viana-351967233/" target="_blank">Check my LinkedIn</a> <br>
  📧 theodinizv@gmail.com
-    
 </div>
-<br/>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/theokiwi?theme=catppuccinMocha&font=Poppins&ext=activity" alt="LeetCode Stats" />
 </p>
