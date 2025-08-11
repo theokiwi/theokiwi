@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left"> <li>I'm a student at the Pontifícia Universidade Católica de Minas Gerais. <br> <li>Currently on my 4nd term of Computer Science (4/8). <br> <li>Took two years of Game Design in the same university. <br> <li> Working at COMP! </li> <li> DSA II Teacher's Assistant. <li> C2 Proficiency Certificate</li></p>
+<p align="left"> <li>I'm a student at the Pontifícia Universidade Católica de Minas Gerais. <br> <li>Currently on my 4nd term of Computer Science (4/8). <br> <li>Took two years of Game Design in the same university. <br> <li> Working at COMP! </li> <li> DSA II Teacher's Assistant. <li> C2 Proficiency Certificate.</li></p>
 
 ###
 
