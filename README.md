@@ -30,7 +30,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
  🧑🏻‍💼 <a href="www.linkedin.com/in/theodinizv" target="_blank">Check my LinkedIn</a> <br>
  📧 theodinizv@gmail.com
 </div>
