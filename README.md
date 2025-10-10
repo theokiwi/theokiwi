@@ -56,6 +56,9 @@
 ---
 
 ### 📫 Get In Touch
+<div align="center">
+     <strong>theodinizv@gmail.com</strong>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/theodinizv" target="_blank">
@@ -64,6 +67,3 @@
   &nbsp;
 </div>
 
-<div align="center">
-     <strong>theodinizv@gmail.com</strong>
-</div>
