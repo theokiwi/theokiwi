@@ -58,10 +58,12 @@
 ### 📫 Get In Touch
 
 <div align="center">
-   <strong>theodinizv@gmail.com</strong>
- </br>
   <a href="https://www.linkedin.com/in/theodinizv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
+</div>
+
+<div align="center">
+     <strong>theodinizv@gmail.com</strong>
 </div>
