@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/8c7ef58e-b43d-4a4e-8bcb-41978c4bf550)
+![banner](https://github.com/user-attachments/assets/2410b745-58f2-47d1-85c7-c08cc1419ac5)
 
 <h1 align="center">🛸 Hello world, I'm Theo!</h1>
 
