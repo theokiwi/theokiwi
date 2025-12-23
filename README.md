@@ -13,7 +13,7 @@
 -   🎓 I'm a student at **Pontifícia Universidade Católica de Minas Gerais (PUC-MG)**.
 -   📚 Currently on my **4th term** of Computer Science (4/8).
 -   🕹️ Previously studied **Game Design** for two years at the same university.
--   💼 Currently working at **BioByte** and **COMP**.
+-   💼 Currently working at **BioByte**.
 -   🌐 **C2 English Proficiency** certified (Cambridge).
 
 ---
