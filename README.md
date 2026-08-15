@@ -3,7 +3,7 @@
 <h1 align="center">🛸 Hello world, I'm Theo!</h1>
 
 <p align="center">
-  <em>Computer Science student at PUC-MG with a passion for research, low level programming and web.</em>
+  <em>Computer Science student at PUC-MG with a passion for AI & Data Science.</em>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 -   🎓 I'm a student at **Pontifícia Universidade Católica de Minas Gerais (PUC-MG)**.
--   📚 Currently on my **4th term** of Computer Science (4/8).
+-   📚 Currently on my **5th term** of Computer Science (4/8).
 -   🕹️ Previously studied **Game Design** for two years at the same university.
 -   💼 Currently working at **BioByte**.
 -   🌐 **C2 English Proficiency** certified (Cambridge).
@@ -21,8 +21,8 @@
 ### ✨ A Little More About Me
 
 -   💻 Over 2 years of programming experience.
--   🐧 Aspiring Operating Systems developer and Linux enthusiast.
--   ❤️ Passionate about low-level programming and game development.
+-   🐧 Linux enthusiast.
+-   ❤️ Passionate about low-level programming, game development, AI and Data Science.
 -   🎯 My goal is to build a solid academic foundation while also gaining experience in the software industry.
 
 ---
