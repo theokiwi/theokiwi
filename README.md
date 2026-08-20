@@ -27,7 +27,6 @@
 | --- | --- |
 | [**SimpleDB**](https://github.com/theokiwi/simpledb) | C++, TCP/IP, POSIX sockets, and multithreading in a Redis-inspired key-value database |
 | [**8-Puzzle**](https://github.com/theokiwi/eightpuzzle) | A*, greedy search, and BFS with an interactive Pygame interface |
-| [**Portfolio**](https://github.com/theokiwi/Portifolio) | Next.js, TypeScript, and an original 8-bit visual system |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theokiwi/theokiwi/output/github-snake-dark.svg" />
