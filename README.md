@@ -3,40 +3,34 @@
 <h1 align="center">Hello, I'm Theo.</h1>
 
 <p align="center">
-  <strong>Fullstack developer working across web, backend, data, and cloud.</strong><br />
-  Computer Science student based in Belo Horizonte, Brazil.
+  Fullstack developer building web products, backend systems, and data-driven software.<br />
+  Computer Science at PUC Minas · Belo Horizonte, Brazil
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/theodinizv">LinkedIn</a> ·
-  <a href="mailto:theodinizv@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/theodinizv"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=flat-square&logo=linkedin&logoColor=4aa36a" alt="LinkedIn" /></a>
+  <a href="mailto:theodinizv@gmail.com"><img src="https://img.shields.io/badge/Email-0b1020?style=flat-square&logo=gmail&logoColor=4aa36a" alt="Email" /></a>
 </p>
 
-## What I work on
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-0b1020?style=flat-square&logo=typescript&logoColor=4aa36a" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-0b1020?style=flat-square&logo=nodedotjs&logoColor=4aa36a" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-0b1020?style=flat-square&logo=react&logoColor=4aa36a" alt="React" />
+  <img src="https://img.shields.io/badge/Python-0b1020?style=flat-square&logo=python&logoColor=4aa36a" alt="Python" />
+  <img src="https://img.shields.io/badge/R-0b1020?style=flat-square&logo=r&logoColor=4aa36a" alt="R" />
+  <img src="https://img.shields.io/badge/C++-0b1020?style=flat-square&logo=cplusplus&logoColor=4aa36a" alt="C++" />
+</p>
 
-I build responsive web products, backend APIs, and data-driven systems. At **BioByte Brasil**, I contribute to the evolution of a healthcare software platform; recent work includes rebuilding more than 12 reports with **R and Node.js**, implementing soft deletion, and configuring **Amazon S3** for new product features.
+## Selected builds
 
-My Computer Science studies at **PUC Minas** have taken me deeper into data structures, algorithms, databases, network programming, machine learning, and data science. Before that, I studied Digital Game Design and built complete Unity projects involving procedural generation and pathfinding.
+| Project | What it explores |
+| --- | --- |
+| [**SimpleDB**](https://github.com/theokiwi/simpledb) | C++, TCP/IP, POSIX sockets, and multithreading in a Redis-inspired key-value database |
+| [**8-Puzzle**](https://github.com/theokiwi/eightpuzzle) | A*, greedy search, and BFS with an interactive Pygame interface |
+| [**Portfolio**](https://github.com/theokiwi/Portifolio) | Next.js, TypeScript, and an original 8-bit visual system |
 
-- Building with **TypeScript, React, Node.js, SQL, R, Python, and AWS**
-- Exploring **machine learning, data science, networking, and systems programming**
-- Professional working proficiency in Portuguese and English (**Cambridge C2**)
-- Linux enthusiast who enjoys understanding how things work from the ground up
-
-## Selected projects
-
-### [SimpleDB](https://github.com/theokiwi/simpledb)
-
-An in-memory key-value database written in C++. It explores TCP/IP communication, POSIX sockets, multithreading, data structures, and a Redis-inspired command interface.
-
-### [8-Puzzle](https://github.com/theokiwi/eightpuzzle)
-
-An interactive Python and Pygame implementation of the 8-puzzle with automatic solving through A*, greedy search, and breadth-first search, including runtime and search statistics.
-
-### [Portfolio](https://github.com/theokiwi/Portifolio)
-
-My personal portfolio and freelance website, built with Next.js, TypeScript, and React around an original 8-bit visual system.
-
-## Current direction
-
-I am interested in building reliable software at the intersection of **web engineering and data**. I am especially glad to connect with people working on fullstack products, backend systems, applied machine learning, or data-intensive applications.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theokiwi/theokiwi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theokiwi/theokiwi/output/github-snake.svg" />
+  <img alt="Theo's contribution graph animated as a snake" src="https://raw.githubusercontent.com/theokiwi/theokiwi/output/github-snake.svg" />
+</picture>
