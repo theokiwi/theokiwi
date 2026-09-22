@@ -36,7 +36,6 @@ Pesquisa na interseção entre geoprocessamento, dados de saúde e machine learn
 - 🔬 **Bolsista de Iniciação Científica** em GeoVisualização e Análise de Risco de Acesso a Recursos de Saúde com Aprendizado de Máquina
 - 📄 Coautor em **10 trabalhos científicos** sobre IA aplicada à vigilância de infecções hospitalares, 5 publicados na Revista Mineira de Epidemiologia, Prevenção e Controle de Infecções, e 5 aceitos para o **IDWeek 2026** (Washington, D.C.)
 - 🧠 Estudando o stack Python de ciência de dados: **scikit-learn, pandas, NumPy, PyTorch**
-- 🤖 Pratico **Spec-Driven Development**, combinando especificações claras com ferramentas de IA para código
 - 🐧 Usuário de Linux, entusiasta de sistemas e tópicos de baixo nível
 - 🕹️ Antigo estudante de Design de Jogos Digitais, ainda desenvolvo jogos por hobby, hoje em Pygame
 - 🌐 Inglês C2 (Cambridge Proficiency, 88%)
