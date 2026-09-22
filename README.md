@@ -1,7 +1,6 @@
-[README.md](https://github.com/user-attachments/files/32529317/README.md)
-
 <div align="center">
-![Theo Diniz Viana — developer banner](https://github.com/user-attachments/assets/2410b745-58f2-47d1-85c7-c08cc1419ac5)
+
+![Theo Diniz Viana, banner](https://github.com/user-attachments/assets/2410b745-58f2-47d1-85c7-c08cc1419ac5)
 
 <!-- Nome + cargo com efeito de digitação -->
 <a href="https://git.io/typing-svg">
@@ -35,11 +34,11 @@ Pesquisa na interseção entre geoprocessamento, dados de saúde e machine learn
 - 🎓 Cursando **Ciência da Computação** na PUC Minas (5º período)
 - 💼 **Desenvolvedor Fullstack** na **BioByte**, construindo uma plataforma de relatórios de controle de infecção hospitalar (CCIH), com Node.js, Angular, TypeScript, R e AWS
 - 🔬 **Bolsista de Iniciação Científica** em GeoVisualização e Análise de Risco de Acesso a Recursos de Saúde com Aprendizado de Máquina
-- 📄 Coautor em **10 trabalhos científicos** sobre IA aplicada à vigilância de infecções hospitalares — 5 publicados na Revista Mineira de Epidemiologia, Prevenção e Controle de Infecções, e 5 aceitos para o **IDWeek 2026** (Washington, D.C.)
+- 📄 Coautor em **10 trabalhos científicos** sobre IA aplicada à vigilância de infecções hospitalares, 5 publicados na Revista Mineira de Epidemiologia, Prevenção e Controle de Infecções, e 5 aceitos para o **IDWeek 2026** (Washington, D.C.)
 - 🧠 Estudando o stack Python de ciência de dados: **scikit-learn, pandas, NumPy, PyTorch**
 - 🤖 Pratico **Spec-Driven Development**, combinando especificações claras com ferramentas de IA para código
 - 🐧 Usuário de Linux, entusiasta de sistemas e tópicos de baixo nível
-- 🕹️ Antigo estudante de Design de Jogos Digitais — ainda desenvolvo jogos por hobby, hoje em Pygame
+- 🕹️ Antigo estudante de Design de Jogos Digitais, ainda desenvolvo jogos por hobby, hoje em Pygame
 - 🌐 Inglês C2 (Cambridge Proficiency, 88%)
 
 <br>
@@ -141,11 +140,3 @@ Pesquisa na interseção entre geoprocessamento, dados de saúde e machine learn
 📫 **theodinizv@gmail.com** &nbsp;|&nbsp; 🌐 **[theokiwi.com.br](https://www.theokiwi.com.br/pt-br/)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/theodinizv)**
 
 </div>
-</content>
-
-<div align="center">
-
-📫 **theodinizv@gmail.com** &nbsp;|&nbsp; 🌐 **[theokiwi.com.br](https://www.theokiwi.com.br/pt-br/)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/theodinizv)**
-
-</div>
-</content>
