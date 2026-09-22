@@ -1,11 +1,11 @@
 [README.md](https://github.com/user-attachments/files/32529317/README.md)
-![Theo Diniz Viana — developer banner](https://github.com/user-attachments/assets/2410b745-58f2-47d1-85c7-c08cc1419ac5)
 
 <div align="center">
+![Theo Diniz Viana — developer banner](https://github.com/user-attachments/assets/2410b745-58f2-47d1-85c7-c08cc1419ac5)
 
 <!-- Nome + cargo com efeito de digitação -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Theo+%F0%9F%91%8B;Desenvolvedor+Fullstack+%40+BioByte;Bolsista+de+Inicia%C3%A7%C3%A3o+Cient%C3%ADfica+%40+PUC+Minas;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=820&lines=Ol%C3%A1%2C+eu+sou+o+Theo+%F0%9F%91%8B;Desenvolvedor+Fullstack+%40+BioByte;Bolsista+de+Inicia%C3%A7%C3%A3o+Cient%C3%ADfica+%40+PUC+Minas;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
 </a>
 
 <p>
@@ -37,6 +37,7 @@ Pesquisa na interseção entre geoprocessamento, dados de saúde e machine learn
 - 🔬 **Bolsista de Iniciação Científica** em GeoVisualização e Análise de Risco de Acesso a Recursos de Saúde com Aprendizado de Máquina
 - 📄 Coautor em **10 trabalhos científicos** sobre IA aplicada à vigilância de infecções hospitalares — 5 publicados na Revista Mineira de Epidemiologia, Prevenção e Controle de Infecções, e 5 aceitos para o **IDWeek 2026** (Washington, D.C.)
 - 🧠 Estudando o stack Python de ciência de dados: **scikit-learn, pandas, NumPy, PyTorch**
+- 🤖 Pratico **Spec-Driven Development**, combinando especificações claras com ferramentas de IA para código
 - 🐧 Usuário de Linux, entusiasta de sistemas e tópicos de baixo nível
 - 🕹️ Antigo estudante de Design de Jogos Digitais — ainda desenvolvo jogos por hobby, hoje em Pygame
 - 🌐 Inglês C2 (Cambridge Proficiency, 88%)
@@ -125,15 +126,22 @@ Pesquisa na interseção entre geoprocessamento, dados de saúde e machine learn
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<img src="https://raw.githubusercontent.com/theokiwi/theokiwi/output/github-contribution-grid-snake.svg" alt="snake animation" />
-<!--END_SECTION:waka-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theokiwi/theokiwi/gh-pages/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theokiwi/theokiwi/gh-pages/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/theokiwi/theokiwi/gh-pages/github-snake.svg" alt="snake animation" />
+</picture>
 
 </div>
 
-> A animação da cobrinha comendo o gráfico de contribuições precisa de uma GitHub Action rodando no seu repositório `theokiwi/theokiwi` para ser gerada automaticamente. Veja a nota logo abaixo do README sobre como ativar isso — é rápido, mas é um passo separado de só colar este arquivo.
-
 <br>
+
+<div align="center">
+
+📫 **theodinizv@gmail.com** &nbsp;|&nbsp; 🌐 **[theokiwi.com.br](https://www.theokiwi.com.br/pt-br/)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/theodinizv)**
+
+</div>
+</content>
 
 <div align="center">
 
